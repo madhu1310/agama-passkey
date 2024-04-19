@@ -1216,7 +1216,7 @@
 					"comment": "Main flow to handle all sub flows",
 					"isTopLevelFlow": true,
 					"basepath": "",
-					"configParams": "{\n        \"scimClientId\": \"PUT_YOUR_SCIM_CLIENT_ID_HERE\",\n        \"scimClientSecret\": \"PUT_YOUR_SCIM_CLIENT_SECRET\"\n    }",
+					"configParams": "{\n  \"scimClientId\": \"1201.0bf25f3a-4683-4e88-b56d-2f96c5faf22a\",\n  \"scimClientSecret\": \"k8cgADoYnxQ2\"\n}",
 					"nodeIcon": "material-symbols:line-start-square",
 					"timeout": "",
 					"inputs": "",
