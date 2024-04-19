@@ -1093,7 +1093,7 @@
 				},
 				"skake": false
 			},
-			"selected": true,
+			"selected": false,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 630,
@@ -1216,7 +1216,7 @@
 					"comment": "Main flow to handle all sub flows",
 					"isTopLevelFlow": true,
 					"basepath": "",
-					"configParams": "{}",
+					"configParams": "{\n        \"scimClientId\": \"PUT_YOUR_SCIM_CLIENT_ID_HERE\",\n        \"scimClientSecret\": \"PUT_YOUR_SCIM_CLIENT_SECRET\"\n    }",
 					"nodeIcon": "material-symbols:line-start-square",
 					"timeout": "",
 					"inputs": "",
@@ -1229,7 +1229,7 @@
 				"x": 30,
 				"y": 30
 			},
-			"selected": false,
+			"selected": true,
 			"dragging": false,
 			"positionAbsolute": {
 				"x": 30,
